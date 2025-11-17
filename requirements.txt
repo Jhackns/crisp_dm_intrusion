@@ -1,0 +1,8 @@
+psycopg2-binary
+pandas
+streamlit
+SQLAlchemy
+altair
+plotly
+scikit-learn
+scapy
